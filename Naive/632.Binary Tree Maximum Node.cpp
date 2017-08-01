@@ -15,6 +15,7 @@ public:
 
     return max(root, max(leftMaxNode, rigthMaxNode));
   }
+
 private:
   TreeNode* max(TreeNode* a, TreeNode* b) {
     if (a == nullptr)
