@@ -10,8 +10,8 @@ public class Rectangle {
      */
     // write your code here
     Rectangle(int width, int height) {
-      this.width = width;
-      this.height = height;
+        this.width = width;
+        this.height = height;
     }
 
     /*
@@ -20,6 +20,6 @@ public class Rectangle {
      */
     // write your code here
     int getArea() {
-      return this.width * this.height;
+        return this.width * this.height;
     }
 }
