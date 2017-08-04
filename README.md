@@ -4,6 +4,7 @@ LintCodeEveryday
 ├─Easy
 │      1.A + B Problem.cpp
 │      167.Add Two Numbers.cpp
+│      376.Binary Tree Path Sum.cpp
 │      408.Add Binary.cpp
 │      457.Classical Binary Search.cpp
 │      569.Add Digits.cpp
