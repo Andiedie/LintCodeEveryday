@@ -11,6 +11,7 @@ LintCodeEveryday
 │      480.Binary Tree Paths.cpp
 │      569.Add Digits.cpp
 │      655.Big Integer Addition.cpp
+│      66.Binary Tree Preorder Traversal.cpp
 │      67.Binary Tree Inorder Traversal.cpp
 │      68.Binary Tree Postorder Traversal.cpp
 │      69.Binary Tree Level Order Traversal.cpp
