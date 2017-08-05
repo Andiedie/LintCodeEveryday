@@ -6,6 +6,7 @@ LintCodeEveryday
 │      1.A + B Problem.cpp
 │      111.Climbing Stairs.cpp
 │      167.Add Two Numbers.cpp
+│      375.Clone Binary Tree.cpp
 │      376.Binary Tree Path Sum.cpp
 │      408.Add Binary.cpp
 │      457.Classical Binary Search.cpp
