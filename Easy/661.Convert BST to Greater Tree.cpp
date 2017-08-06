@@ -24,12 +24,9 @@ public:
     void convert(TreeNode *root) {
         static int sum = 0;
         if (!root) return;
-        if (root->right) {
-            convert(root->right);
-        }
-        root->val = (sum += root->val);
-        if (root->left) {
-            convert(root->left);
-        }
+        convert(root->right);
+        sum += root->val;
+        root->val = sum;
+        convert(root->left);
     }
 };

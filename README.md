@@ -6,6 +6,7 @@ LintCodeEveryday
 │      1.A + B Problem.cpp
 │      111.Climbing Stairs.cpp
 │      167.Add Two Numbers.cpp
+│      177.Convert Sorted Array to Binary Search Tree With Minimal Height.cpp
 │      375.Clone Binary Tree.cpp
 │      376.Binary Tree Path Sum.cpp
 │      408.Add Binary.cpp
@@ -27,6 +28,8 @@ LintCodeEveryday
         454.Rectangle Area.java
         463.Sort Integers.cpp
         632.Binary Tree Maximum Node.cpp
-
-
 ```
+# obstacle
+- [1.A + B Problem.cpp](http://lintcode.com/problem/a-b-problem)
+- [376.Binary Tree Path Sum.cpp](http://lintcode.com/problem/binary-tree-path-sum)
+- [661.Convert BST to Greater Tree.cpp](http://lintcode.com/problem/convert-bst-to-greater-tree)
