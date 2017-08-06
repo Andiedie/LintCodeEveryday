@@ -7,6 +7,7 @@ LintCodeEveryday
 │      111.Climbing Stairs.cpp
 │      167.Add Two Numbers.cpp
 │      177.Convert Sorted Array to Binary Search Tree With Minimal Height.cpp
+│      365.Count 1 in Binary.cpp
 │      375.Clone Binary Tree.cpp
 │      376.Binary Tree Path Sum.cpp
 │      408.Add Binary.cpp
