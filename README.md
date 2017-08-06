@@ -11,6 +11,7 @@ LintCodeEveryday
 │      408.Add Binary.cpp
 │      457.Classical Binary Search.cpp
 │      480.Binary Tree Paths.cpp
+│      55.Compare Strings.cpp
 │      569.Add Digits.cpp
 │      655.Big Integer Addition.cpp
 │      66.Binary Tree Preorder Traversal.cpp
