@@ -1,7 +1,7 @@
 # LintCode Everyday
 ```
 LintCodeEveryday
-│  
+│
 ├─Easy
 │      1.A + B Problem.cpp
 │      111.Climbing Stairs.cpp
@@ -10,6 +10,7 @@ LintCodeEveryday
 │      375.Clone Binary Tree.cpp
 │      376.Binary Tree Path Sum.cpp
 │      408.Add Binary.cpp
+│      445.Cosine Similarity.cpp
 │      457.Classical Binary Search.cpp
 │      480.Binary Tree Paths.cpp
 │      55.Compare Strings.cpp
