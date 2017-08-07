@@ -15,6 +15,7 @@ LintCodeEveryday
 │      408.Add Binary.cpp
 │      420.Count and Say.cpp
 │      445.Cosine Similarity.cpp
+│      453.Flatten Binary Tree to Linked List.cpp
 │      457.Classical Binary Search.cpp
 │      480.Binary Tree Paths.cpp
 │      55.Compare Strings.cpp
