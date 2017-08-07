@@ -20,6 +20,7 @@ LintCodeEveryday
 │      453.Flatten Binary Tree to Linked List.cpp
 │      457.Classical Binary Search.cpp
 │      480.Binary Tree Paths.cpp
+│      488.Happy Number.cpp
 │      55.Compare Strings.cpp
 │      569.Add Digits.cpp
 │      646.First Position Unique Character.cpp
