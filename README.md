@@ -18,6 +18,7 @@ LintCodeEveryday
 │      480.Binary Tree Paths.cpp
 │      55.Compare Strings.cpp
 │      569.Add Digits.cpp
+│      646.First Position Unique Character.cpp
 │      655.Big Integer Addition.cpp
 │      66.Binary Tree Preorder Traversal.cpp
 │      661.Convert BST to Greater Tree.cpp
