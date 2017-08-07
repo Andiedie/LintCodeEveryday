@@ -5,6 +5,7 @@ LintCodeEveryday
 ├─Easy
 │      1.A + B Problem.cpp
 │      111.Climbing Stairs.cpp
+│      14.First Position of Target.cpp
 │      167.Add Two Numbers.cpp
 │      177.Convert Sorted Array to Binary Search Tree With Minimal Height.cpp
 │      365.Count 1 in Binary.cpp
