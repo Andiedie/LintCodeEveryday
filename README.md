@@ -26,6 +26,7 @@ LintCodeEveryday
 │      67.Binary Tree Inorder Traversal.cpp
 │      68.Binary Tree Postorder Traversal.cpp
 │      69.Binary Tree Level Order Traversal.cpp
+│      9.Fizz Buzz.cpp
 │      93.Balanced Binary Tree.cpp
 │
 └─Naive
