@@ -8,6 +8,7 @@ LintCodeEveryday
 │      14.First Position of Target.cpp
 │      167.Add Two Numbers.cpp
 │      177.Convert Sorted Array to Binary Search Tree With Minimal Height.cpp
+│      181.Flip Bitsc.cpp
 │      22.Flatten List.cpp
 │      365.Count 1 in Binary.cpp
 │      372.Delete Node in the Middle of Singly Linked List.cpp
