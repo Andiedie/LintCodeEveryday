@@ -26,6 +26,7 @@ LintCodeEveryday
 │      655.Big Integer Addition.cpp
 │      66.Binary Tree Preorder Traversal.cpp
 │      661.Convert BST to Greater Tree.cpp
+│      662.Guess Number Game.cpp
 │      67.Binary Tree Inorder Traversal.cpp
 │      68.Binary Tree Postorder Traversal.cpp
 │      69.Binary Tree Level Order Traversal.cpp
