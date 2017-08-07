@@ -11,6 +11,7 @@ LintCodeEveryday
 │      375.Clone Binary Tree.cpp
 │      376.Binary Tree Path Sum.cpp
 │      408.Add Binary.cpp
+│      420.Count and Say.cpp
 │      445.Cosine Similarity.cpp
 │      457.Classical Binary Search.cpp
 │      480.Binary Tree Paths.cpp
