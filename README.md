@@ -11,6 +11,7 @@ LintCodeEveryday
 │      177.Convert Sorted Array to Binary Search Tree With Minimal Height.cpp
 │      181.Flip Bitsc.cpp
 │      22.Flatten List.cpp
+│      30.Insert Interval.cpp
 │      365.Count 1 in Binary.cpp
 │      372.Delete Node in the Middle of Singly Linked List.cpp
 │      375.Clone Binary Tree.cpp
