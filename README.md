@@ -20,6 +20,7 @@ LintCodeEveryday
 │      445.Cosine Similarity.cpp
 │      453.Flatten Binary Tree to Linked List.cpp
 │      457.Classical Binary Search.cpp
+│      469.Identical Binary Tree.cpp
 │      480.Binary Tree Paths.cpp
 │      488.Happy Number.cpp
 │      55.Compare Strings.cpp
