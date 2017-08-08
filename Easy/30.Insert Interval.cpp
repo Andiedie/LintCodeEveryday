@@ -33,7 +33,8 @@ public:
                     }
                 }
                 return intervals;
-            } if (newInterval.start < it->start) {
+            }
+            if (newInterval.start < it->start) {
                 intervals.insert(it, newInterval);
                 return intervals;
             }
