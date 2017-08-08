@@ -5,6 +5,7 @@ LintCodeEveryday
 ├─Easy
 │      1.A + B Problem.cpp
 │      111.Climbing Stairs.cpp
+│      128.Hash Function.cpp
 │      14.First Position of Target.cpp
 │      167.Add Two Numbers.cpp
 │      177.Convert Sorted Array to Binary Search Tree With Minimal Height.cpp
@@ -44,4 +45,5 @@ LintCodeEveryday
 # obstacle
 - [1.A + B Problem.cpp](http://lintcode.com/problem/a-b-problem)
 - [376.Binary Tree Path Sum.cpp](http://lintcode.com/problem/binary-tree-path-sum)
-- [661.Convert BST to Greater Tree.cpp](http://lintcode.com/problem/convert-bst-to-greater-tree)
+- [661.Convert BST to Greater Tree](http://lintcode.com/problem/convert-bst-to-greater-tree)
+- [128.Hash Function](http://lintcode.com/en/problem/hash-function/)
