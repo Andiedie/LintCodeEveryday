@@ -25,6 +25,7 @@ LintCodeEveryday
 │      469.Identical Binary Tree.cpp
 │      480.Binary Tree Paths.cpp
 │      488.Happy Number.cpp
+│      547.Intersection of Two Arrays.cpp
 │      55.Compare Strings.cpp
 │      569.Add Digits.cpp
 │      646.First Position Unique Character.cpp
