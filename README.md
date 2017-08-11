@@ -8,6 +8,7 @@ LintCodeEveryday
 │      128.Hash Function.cpp
 │      133.Longest Words.cpp
 │      14.First Position of Target.cpp
+│      156.Merge Intervals.cpp
 │      167.Add Two Numbers.cpp
 │      173.Insertion Sort List.cpp
 │      175.Invert Binary Tree.cpp
@@ -22,6 +23,7 @@ LintCodeEveryday
 │      376.Binary Tree Path Sum.cpp
 │      397.Longest Increasing Continuous Subsequence.cpp
 │      408.Add Binary.cpp
+│      41.Maximum Subarray.cpp
 │      420.Count and Say.cpp
 │      422.Length of Last Word.cpp
 │      445.Cosine Similarity.cpp
@@ -37,6 +39,7 @@ LintCodeEveryday
 │      55.Compare Strings.cpp
 │      569.Add Digits.cpp
 │      627.Longest Palindrome.cpp
+│      64.Merge Sorted Array.cpp
 │      646.First Position Unique Character.cpp
 │      655.Big Integer Addition.cpp
 │      66.Binary Tree Preorder Traversal.cpp
@@ -45,9 +48,11 @@ LintCodeEveryday
 │      67.Binary Tree Inorder Traversal.cpp
 │      68.Binary Tree Postorder Traversal.cpp
 │      69.Binary Tree Level Order Traversal.cpp
+│      80.Median.cpp
 │      85.Insert Node in a Binary Search Tree.cpp
 │      9.Fizz Buzz.cpp
 │      93.Balanced Binary Tree.cpp
+│      97.Maximum Depth of Binary Tree.cpp
 │
 └─Naive
         366.Fibonacci.cpp
