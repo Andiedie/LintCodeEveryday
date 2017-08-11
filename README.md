@@ -62,3 +62,5 @@ LintCodeEveryday
 - [661.Convert BST to Greater Tree](http://lintcode.com/problem/convert-bst-to-greater-tree)
 - [128.Hash Function](http://lintcode.com/en/problem/hash-function/)
 - [46.Majority Number](http://lintcode.com/problem/majority-number)
+- [41.Maximum Subarray]http://lintcode.com/problem/maximum-subarray
+- [80.Median](http://lintcode.com/en/problem/median/)
