@@ -4,11 +4,16 @@ LintCodeEveryday
 │
 ├─Easy
 │      1.A + B Problem.cpp
+│      110.Minimum Path Sum.cpp
 │      111.Climbing Stairs.cpp
 │      128.Hash Function.cpp
 │      133.Longest Words.cpp
 │      14.First Position of Target.cpp
+│      142.O(1) Check Power of 2.cpp
+│      155.Minimum Depth of Binary Tree.cpp
 │      156.Merge Intervals.cpp
+│      165.Merge Two Sorted Lists.cpp
+│      166.Nth to Last Node in List.cpp
 │      167.Add Two Numbers.cpp
 │      173.Insertion Sort List.cpp
 │      175.Invert Binary Tree.cpp
@@ -16,6 +21,7 @@ LintCodeEveryday
 │      181.Flip Bitsc.cpp
 │      185.Matrix Zigzag Traversal.cpp
 │      22.Flatten List.cpp
+│      227.Mock Hanoi Tower by Stacks.cpp
 │      30.Insert Interval.cpp
 │      365.Count 1 in Binary.cpp
 │      372.Delete Node in the Middle of Singly Linked List.cpp
@@ -26,6 +32,8 @@ LintCodeEveryday
 │      41.Maximum Subarray.cpp
 │      420.Count and Say.cpp
 │      422.Length of Last Word.cpp
+│      433.Number of Islands.cpp
+│      44.Minimum Subarray.cpp
 │      445.Cosine Similarity.cpp
 │      453.Flatten Binary Tree to Linked List.cpp
 │      457.Classical Binary Search.cpp
@@ -34,10 +42,12 @@ LintCodeEveryday
 │      480.Binary Tree Paths.cpp
 │      488.Happy Number.cpp
 │      524.Left Pad.cpp
+│      539.Move Zeroes.cpp
 │      547.Intersection of Two Arrays.cpp
 │      548.Intersection of Two Arrays II.cpp
 │      55.Compare Strings.cpp
 │      569.Add Digits.cpp
+│      6.Merge Two Sorted Arrays.cpp
 │      627.Longest Palindrome.cpp
 │      64.Merge Sorted Array.cpp
 │      646.First Position Unique Character.cpp
