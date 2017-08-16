@@ -20,11 +20,13 @@ LintCodeEveryday
 │      177.Convert Sorted Array to Binary Search Tree With Minimal Height.cpp
 │      181.Flip Bitsc.cpp
 │      185.Matrix Zigzag Traversal.cpp
+│      197.Permutation Index.cpp
 │      22.Flatten List.cpp
 │      227.Mock Hanoi Tower by Stacks.cpp
 │      30.Insert Interval.cpp
 │      365.Count 1 in Binary.cpp
 │      372.Delete Node in the Middle of Singly Linked List.cpp
+│      373.Partition Array by Odd and Even.cpp
 │      375.Clone Binary Tree.cpp
 │      376.Binary Tree Path Sum.cpp
 │      397.Longest Increasing Continuous Subsequence.cpp
@@ -41,6 +43,8 @@ LintCodeEveryday
 │      469.Identical Binary Tree.cpp
 │      480.Binary Tree Paths.cpp
 │      488.Happy Number.cpp
+│      491.Palindrome Number.cpp
+│      514.Paint Fence.cpp
 │      524.Left Pad.cpp
 │      539.Move Zeroes.cpp
 │      547.Intersection of Two Arrays.cpp
@@ -62,6 +66,7 @@ LintCodeEveryday
 │      85.Insert Node in a Binary Search Tree.cpp
 │      9.Fizz Buzz.cpp
 │      93.Balanced Binary Tree.cpp
+│      96.Partition List.cpp
 │      97.Maximum Depth of Binary Tree.cpp
 │
 └─Naive
