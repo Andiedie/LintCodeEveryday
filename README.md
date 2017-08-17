@@ -4,6 +4,8 @@ LintCodeEveryday
 │
 ├─Easy
 │      1.A + B Problem.cpp
+│      100.Remove Duplicates from Sorted Array.cpp
+│      101.Remove Duplicates from Sorted Array II.cpp
 │      110.Minimum Path Sum.cpp
 │      111.Climbing Stairs.cpp
 │      128.Hash Function.cpp
@@ -29,7 +31,9 @@ LintCodeEveryday
 │      373.Partition Array by Odd and Even.cpp
 │      375.Clone Binary Tree.cpp
 │      376.Binary Tree Path Sum.cpp
+│      39.Recover Rotated Sorted Array.cpp
 │      397.Longest Increasing Continuous Subsequence.cpp
+│      407.Plus One.cpp
 │      408.Add Binary.cpp
 │      41.Maximum Subarray.cpp
 │      420.Count and Say.cpp
@@ -44,6 +48,7 @@ LintCodeEveryday
 │      480.Binary Tree Paths.cpp
 │      488.Happy Number.cpp
 │      491.Palindrome Number.cpp
+│      50.Product of Array Exclude Itself.cpp
 │      514.Paint Fence.cpp
 │      524.Left Pad.cpp
 │      539.Move Zeroes.cpp
