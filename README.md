@@ -85,3 +85,4 @@ LintCodeEveryday
 - [41.Maximum Subarray](http://lintcode.com/problem/maximum-subarray)
 - [80.Median](http://lintcode.com/en/problem/median/)
 - [110.Minimum Path Sum](http://lintcode.com/en/problem/minimum-path-sum/)
+- [100.Remove Duplicates from Sorted Array](http://lintcode.com/en/problem/remove-duplicates-from-sorted-array/)
