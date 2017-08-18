@@ -8,6 +8,7 @@ LintCodeEveryday
 │      101.Remove Duplicates from Sorted Array II.cpp
 │      110.Minimum Path Sum.cpp
 │      111.Climbing Stairs.cpp
+│      112.Remove Duplicates from Sorted List.cpp
 │      128.Hash Function.cpp
 │      133.Longest Words.cpp
 │      14.First Position of Target.cpp
@@ -17,7 +18,9 @@ LintCodeEveryday
 │      165.Merge Two Sorted Lists.cpp
 │      166.Nth to Last Node in List.cpp
 │      167.Add Two Numbers.cpp
+│      172.Remove Element.cpp
 │      173.Insertion Sort List.cpp
+│      174.Remove Nth Node From End of List.cpp
 │      175.Invert Binary Tree.cpp
 │      177.Convert Sorted Array to Binary Search Tree With Minimal Height.cpp
 │      181.Flip Bitsc.cpp
@@ -26,6 +29,7 @@ LintCodeEveryday
 │      22.Flatten List.cpp
 │      227.Mock Hanoi Tower by Stacks.cpp
 │      30.Insert Interval.cpp
+│      35.Reverse Linked List.cpp
 │      365.Count 1 in Binary.cpp
 │      372.Delete Node in the Middle of Singly Linked List.cpp
 │      373.Partition Array by Odd and Even.cpp
@@ -36,6 +40,7 @@ LintCodeEveryday
 │      407.Plus One.cpp
 │      408.Add Binary.cpp
 │      41.Maximum Subarray.cpp
+│      413.Reverse Integer.cpp
 │      420.Count and Say.cpp
 │      422.Length of Last Word.cpp
 │      433.Number of Islands.cpp
