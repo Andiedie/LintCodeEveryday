@@ -28,6 +28,7 @@ LintCodeEveryday
 │      197.Permutation Index.cpp
 │      22.Flatten List.cpp
 │      227.Mock Hanoi Tower by Stacks.cpp
+│      28.Search a 2D Matrix.cpp
 │      30.Insert Interval.cpp
 │      35.Reverse Linked List.cpp
 │      365.Count 1 in Binary.cpp
@@ -56,12 +57,14 @@ LintCodeEveryday
 │      50.Product of Array Exclude Itself.cpp
 │      514.Paint Fence.cpp
 │      524.Left Pad.cpp
+│      53.Reverse Words in a String.cpp
 │      539.Move Zeroes.cpp
 │      547.Intersection of Two Arrays.cpp
 │      548.Intersection of Two Arrays II.cpp
 │      55.Compare Strings.cpp
 │      569.Add Digits.cpp
 │      6.Merge Two Sorted Arrays.cpp
+│      60.Search Insert Position.cpp
 │      627.Longest Palindrome.cpp
 │      64.Merge Sorted Array.cpp
 │      646.First Position Unique Character.cpp
@@ -72,7 +75,9 @@ LintCodeEveryday
 │      67.Binary Tree Inorder Traversal.cpp
 │      68.Binary Tree Postorder Traversal.cpp
 │      69.Binary Tree Level Order Traversal.cpp
+│      8.Rotate String.cpp
 │      80.Median.cpp
+│      82.Single Number.cpp
 │      85.Insert Node in a Binary Search Tree.cpp
 │      9.Fizz Buzz.cpp
 │      93.Balanced Binary Tree.cpp
