@@ -12,6 +12,7 @@ LintCodeEveryday
 │      128.Hash Function.cpp
 │      133.Longest Words.cpp
 │      14.First Position of Target.cpp
+│      141.Sqrt(x).cpp
 │      142.O(1) Check Power of 2.cpp
 │      155.Minimum Depth of Binary Tree.cpp
 │      156.Merge Intervals.cpp
@@ -26,6 +27,9 @@ LintCodeEveryday
 │      181.Flip Bitsc.cpp
 │      185.Matrix Zigzag Traversal.cpp
 │      197.Permutation Index.cpp
+│      204.Singleton.cpp
+│      211.String Permutation.cpp
+│      212.Space Replacement.cpp
 │      22.Flatten List.cpp
 │      227.Mock Hanoi Tower by Stacks.cpp
 │      28.Search a 2D Matrix.cpp
@@ -50,6 +54,7 @@ LintCodeEveryday
 │      453.Flatten Binary Tree to Linked List.cpp
 │      457.Classical Binary Search.cpp
 │      46.Majority Number.cpp
+│      464.Sort Integers II.cpp
 │      469.Identical Binary Tree.cpp
 │      480.Binary Tree Paths.cpp
 │      488.Happy Number.cpp
