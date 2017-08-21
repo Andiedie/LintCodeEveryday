@@ -11,6 +11,7 @@ LintCodeEveryday
 │      112.Remove Duplicates from Sorted List.cpp
 │      128.Hash Function.cpp
 │      133.Longest Words.cpp
+│      138.Subarray Sum.cpp
 │      14.First Position of Target.cpp
 │      141.Sqrt(x).cpp
 │      142.O(1) Check Power of 2.cpp
@@ -32,6 +33,7 @@ LintCodeEveryday
 │      212.Space Replacement.cpp
 │      22.Flatten List.cpp
 │      227.Mock Hanoi Tower by Stacks.cpp
+│      245.Subtree.cpp
 │      28.Search a 2D Matrix.cpp
 │      30.Insert Interval.cpp
 │      35.Reverse Linked List.cpp
@@ -51,6 +53,7 @@ LintCodeEveryday
 │      433.Number of Islands.cpp
 │      44.Minimum Subarray.cpp
 │      445.Cosine Similarity.cpp
+│      451.Swap Nodes in Pairs.cpp
 │      453.Flatten Binary Tree to Linked List.cpp
 │      457.Classical Binary Search.cpp
 │      46.Majority Number.cpp
@@ -71,8 +74,10 @@ LintCodeEveryday
 │      6.Merge Two Sorted Arrays.cpp
 │      60.Search Insert Position.cpp
 │      627.Longest Palindrome.cpp
+│      638.Strings Homomorphism.cpp
 │      64.Merge Sorted Array.cpp
 │      646.First Position Unique Character.cpp
+│      647.Substring Anagrams.cpp
 │      655.Big Integer Addition.cpp
 │      66.Binary Tree Preorder Traversal.cpp
 │      661.Convert BST to Greater Tree.cpp
