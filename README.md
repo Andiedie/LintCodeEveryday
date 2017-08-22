@@ -6,6 +6,7 @@ LintCodeEveryday
 │      1.A + B Problem.cpp
 │      100.Remove Duplicates from Sorted Array.cpp
 │      101.Remove Duplicates from Sorted Array II.cpp
+│      109.Triangle.cpp
 │      110.Minimum Path Sum.cpp
 │      111.Climbing Stairs.cpp
 │      112.Remove Duplicates from Sorted List.cpp
@@ -17,6 +18,7 @@ LintCodeEveryday
 │      142.O(1) Check Power of 2.cpp
 │      155.Minimum Depth of Binary Tree.cpp
 │      156.Merge Intervals.cpp
+│      158.Two Strings Are Anagrams.cpp
 │      165.Merge Two Sorted Lists.cpp
 │      166.Nth to Last Node in List.cpp
 │      167.Add Two Numbers.cpp
@@ -28,6 +30,7 @@ LintCodeEveryday
 │      181.Flip Bitsc.cpp
 │      185.Matrix Zigzag Traversal.cpp
 │      197.Permutation Index.cpp
+│      2.Trailing Zeros.cpp
 │      204.Singleton.cpp
 │      211.String Permutation.cpp
 │      212.Space Replacement.cpp
@@ -62,6 +65,7 @@ LintCodeEveryday
 │      480.Binary Tree Paths.cpp
 │      488.Happy Number.cpp
 │      491.Palindrome Number.cpp
+│      496.Toy Factory.cpp
 │      50.Product of Array Exclude Itself.cpp
 │      514.Paint Fence.cpp
 │      524.Left Pad.cpp
@@ -70,6 +74,7 @@ LintCodeEveryday
 │      547.Intersection of Two Arrays.cpp
 │      548.Intersection of Two Arrays II.cpp
 │      55.Compare Strings.cpp
+│      56.Two Sum.cpp
 │      569.Add Digits.cpp
 │      6.Merge Two Sorted Arrays.cpp
 │      60.Search Insert Position.cpp
