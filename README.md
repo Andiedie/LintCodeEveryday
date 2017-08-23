@@ -10,6 +10,8 @@ LintCodeEveryday
 │      110.Minimum Path Sum.cpp
 │      111.Climbing Stairs.cpp
 │      112.Remove Duplicates from Sorted List.cpp
+│      114.Unique Paths.cpp
+│      115.Unique Paths II.cpp
 │      128.Hash Function.cpp
 │      133.Longest Words.cpp
 │      138.Subarray Sum.cpp
@@ -18,6 +20,7 @@ LintCodeEveryday
 │      142.O(1) Check Power of 2.cpp
 │      155.Minimum Depth of Binary Tree.cpp
 │      156.Merge Intervals.cpp
+│      157.Unique Characters.cpp
 │      158.Two Strings Are Anagrams.cpp
 │      165.Merge Two Sorted Lists.cpp
 │      166.Nth to Last Node in List.cpp
@@ -51,6 +54,7 @@ LintCodeEveryday
 │      408.Add Binary.cpp
 │      41.Maximum Subarray.cpp
 │      413.Reverse Integer.cpp
+│      415.Valid Palindrome.cpp
 │      420.Count and Say.cpp
 │      422.Length of Last Word.cpp
 │      433.Number of Islands.cpp
@@ -68,6 +72,7 @@ LintCodeEveryday
 │      496.Toy Factory.cpp
 │      50.Product of Array Exclude Itself.cpp
 │      514.Paint Fence.cpp
+│      517.Ugly Number.cpp
 │      524.Left Pad.cpp
 │      53.Reverse Words in a String.cpp
 │      539.Move Zeroes.cpp
