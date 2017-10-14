@@ -48,6 +48,7 @@ LintCodeEveryday
 │      373.Partition Array by Odd and Even.cpp
 │      375.Clone Binary Tree.cpp
 │      376.Binary Tree Path Sum.cpp
+│      389.Valid Sudoku.cpp
 │      39.Recover Rotated Sorted Array.cpp
 │      397.Longest Increasing Continuous Subsequence.cpp
 │      407.Plus One.cpp
@@ -57,6 +58,7 @@ LintCodeEveryday
 │      415.Valid Palindrome.cpp
 │      420.Count and Say.cpp
 │      422.Length of Last Word.cpp
+│      423.Valid Parentheses.cpp
 │      433.Number of Islands.cpp
 │      44.Minimum Subarray.cpp
 │      445.Cosine Similarity.cpp
@@ -70,6 +72,7 @@ LintCodeEveryday
 │      488.Happy Number.cpp
 │      491.Palindrome Number.cpp
 │      496.Toy Factory.cpp
+│      499.Word Count (Map Reduce).cpp
 │      50.Product of Array Exclude Itself.cpp
 │      514.Paint Fence.cpp
 │      517.Ugly Number.cpp
@@ -94,7 +97,10 @@ LintCodeEveryday
 │      662.Guess Number Game.cpp
 │      67.Binary Tree Inorder Traversal.cpp
 │      68.Binary Tree Postorder Traversal.cpp
+│      684.Missing String.cpp
 │      69.Binary Tree Level Order Traversal.cpp
+│      697.Check Sum of Square Numbers.cpp
+│      702.Concatenated String with Uncommon Characters of Two Strings.cpp
 │      8.Rotate String.cpp
 │      80.Median.cpp
 │      82.Single Number.cpp
