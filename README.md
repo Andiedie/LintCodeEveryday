@@ -129,3 +129,4 @@ LintCodeEveryday
 - [100.Remove Duplicates from Sorted Array](http://lintcode.com/en/problem/remove-duplicates-from-sorted-array/)
 - [82.Single Number](http://lintcode.com/en/problem/single-number/)
 - [499.Word Count (Map Reduce)](http://lintcode.com/en/problem/word-count-map-reduce/)
+- [136.Palindrome Partitioning](http://lintcode.com/en/problem/palindrome-partitioning/)
