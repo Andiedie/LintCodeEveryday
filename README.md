@@ -13,6 +13,7 @@ LintCodeEveryday
 │      114.Unique Paths.cpp
 │      115.Unique Paths II.cpp
 │      128.Hash Function.cpp
+│      13.strStr.cpp
 │      133.Longest Words.cpp
 │      138.Subarray Sum.cpp
 │      14.First Position of Target.cpp
@@ -96,7 +97,9 @@ LintCodeEveryday
 │      661.Convert BST to Greater Tree.cpp
 │      662.Guess Number Game.cpp
 │      67.Binary Tree Inorder Traversal.cpp
+│      671.Rotate Words.cpp
 │      68.Binary Tree Postorder Traversal.cpp
+│      680.Split String.cpp
 │      684.Missing String.cpp
 │      69.Binary Tree Level Order Traversal.cpp
 │      697.Check Sum of Square Numbers.cpp
@@ -109,6 +112,10 @@ LintCodeEveryday
 │      93.Balanced Binary Tree.cpp
 │      96.Partition List.cpp
 │      97.Maximum Depth of Binary Tree.cpp
+│
+├─Medium
+│      136.Palindrome Partitioning.cpp
+│      636.132 Pattern.cpp
 │
 └─Naive
         366.Fibonacci.cpp
@@ -130,3 +137,4 @@ LintCodeEveryday
 - [82.Single Number](http://lintcode.com/en/problem/single-number/)
 - [499.Word Count (Map Reduce)](http://lintcode.com/en/problem/word-count-map-reduce/)
 - [136.Palindrome Partitioning](http://lintcode.com/en/problem/palindrome-partitioning/)
+- [636.132 Pattern](http://lintcode.com/en/problem/132-pattern/)
