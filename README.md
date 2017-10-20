@@ -115,6 +115,8 @@ LintCodeEveryday
 │
 ├─Medium
 │      136.Palindrome Partitioning.cpp
+│      57.3Sum.cpp
+│      59.3Sum Closest.cpp
 │      636.132 Pattern.cpp
 │
 └─Naive
@@ -138,3 +140,4 @@ LintCodeEveryday
 - [499.Word Count (Map Reduce)](http://lintcode.com/en/problem/word-count-map-reduce/)
 - [136.Palindrome Partitioning](http://lintcode.com/en/problem/palindrome-partitioning/)
 - [636.132 Pattern](http://lintcode.com/en/problem/132-pattern/)
+- [57.3Sum](http://lintcode.com/problem/3sum)
