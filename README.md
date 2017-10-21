@@ -116,6 +116,7 @@ LintCodeEveryday
 ├─Medium
 │      136.Palindrome Partitioning.cpp
 │      57.3Sum.cpp
+│      58.4Sum.cpp
 │      59.3Sum Closest.cpp
 │      636.132 Pattern.cpp
 │
