@@ -123,6 +123,7 @@ LintCodeEveryday
 │      58.4Sum.cpp
 │      59.3Sum Closest.cpp
 │      636.132 Pattern.cpp
+│      691.BST Swapped Nodes.cpp
 │
 └─Naive
         366.Fibonacci.cpp
