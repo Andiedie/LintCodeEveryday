@@ -124,6 +124,7 @@ LintCodeEveryday
 │      59.3Sum Closest.cpp
 │      636.132 Pattern.cpp
 │      691.BST Swapped Nodes.cpp
+│      92.Backpack.cpp
 │
 └─Naive
         366.Fibonacci.cpp
@@ -147,3 +148,4 @@ LintCodeEveryday
 - [136.Palindrome Partitioning](http://lintcode.com/en/problem/palindrome-partitioning/)
 - [636.132 Pattern](http://lintcode.com/en/problem/132-pattern/)
 - [57.3Sum](http://lintcode.com/problem/3sum)
+- [92.Backpack](http://lintcode.com/en/problem/backpack/)
