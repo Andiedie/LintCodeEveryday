@@ -120,6 +120,7 @@ LintCodeEveryday
 │      208.Assignment Operator Overloading (C++ Only).cpp
 │      221.Add Two Numbers II.cpp
 │      473.Add and Search Word.cpp
+│      564.Backpack VI.cpp
 │      57.3Sum.cpp
 │      58.4Sum.cpp
 │      59.3Sum Closest.cpp
