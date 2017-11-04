@@ -128,6 +128,7 @@ LintCodeEveryday
 │      58.4Sum.cpp
 │      59.3Sum Closest.cpp
 │      636.132 Pattern.cpp
+│      656.Big Integer multiplication.cpp
 │      691.BST Swapped Nodes.cpp
 │      92.Backpack.cpp
 │
@@ -154,3 +155,4 @@ LintCodeEveryday
 - [636.132 Pattern](http://lintcode.com/en/problem/132-pattern/)
 - [57.3Sum](http://lintcode.com/problem/3sum)
 - [92.Backpack](http://lintcode.com/en/problem/backpack/)
+- [151.Best Time to Buy and Sell Stock III](http://www.lintcode.com/problem/best-time-to-buy-and-sell-stock-iii)
