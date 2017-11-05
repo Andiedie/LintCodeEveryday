@@ -130,6 +130,7 @@ LintCodeEveryday
 │      636.132 Pattern.cpp
 │      656.Big Integer multiplication.cpp
 │      691.BST Swapped Nodes.cpp
+│      706.Binary Time.cpp
 │      92.Backpack.cpp
 │
 └─Naive
