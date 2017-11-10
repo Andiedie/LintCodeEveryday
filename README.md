@@ -130,6 +130,7 @@ LintCodeEveryday
 │      636.132 Pattern.cpp
 │      656.Big Integer multiplication.cpp
 │      691.BST Swapped Nodes.cpp
+│      70.Binary Tree Level Order Traversal II.cpp
 │      706.Binary Time.cpp
 │      92.Backpack.cpp
 │
