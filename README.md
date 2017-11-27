@@ -74,6 +74,7 @@ LintCodeEveryday
 │      491.Palindrome Number.cpp
 │      496.Toy Factory.cpp
 │      499.Word Count (Map Reduce).cpp
+│      5.Kth Largest Element.cpp
 │      50.Product of Array Exclude Itself.cpp
 │      514.Paint Fence.cpp
 │      517.Ugly Number.cpp
